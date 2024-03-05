@@ -22,6 +22,29 @@ Tamkeen app is the official assistant for people with disabilities around the wo
 # live preview:
 https://tamkeen-one.vercel.app
 
+# Technologies: 
+JAVASCRIPT, REACT, MONGOBD, EXPRESS, NODEJS, REDUX, MUI (material UI), CSS, HTML
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+</div>
+
 # Contact me for any collaboration:
 - LinkedIn: https://www.linkedin.com/in/abdallah-sekrafi-47232889/
 - Facebook: https://www.facebook.com/abdallah.sek/
@@ -29,7 +52,6 @@ https://tamkeen-one.vercel.app
 # Screenshot:
 <img src="screenshot/full.png" width="800">
 <img src="screenshot/guest.png" width="800">
-
 ---------
 # Sekrafi Abdallah @ 2024
 -------
