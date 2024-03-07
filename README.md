@@ -19,8 +19,14 @@ Tamkeen app is the official assistant for people with disabilities around the wo
 - Visual <img src="screenshot/visual.svg" width="50">
 - Psychological <img src="screenshot/psychological.svg" width="50">
 
-# live preview:
+# `live preview` 
 https://tamkeen-one.vercel.app
+
+# `Font end part` 
+https://github.com/abdallahsekrafi/Tamkeen_font-end
+
+# `Back end part` 
+https://github.com/abdallahsekrafi/Tamkeen_back-end
 
 # Technologies: 
 JAVASCRIPT, REACT, MONGOBD, EXPRESS, NODEJS, REDUX, MUI (material UI), CSS, HTML
