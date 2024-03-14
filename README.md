@@ -22,6 +22,12 @@ Tamkeen app is the official assistant for people with disabilities around the wo
 # `live preview` 
 https://tamkeen-one.vercel.app
 
+- Create a new account with a valid email address.
+- You will receive a verification email.
+- Click the link to activate your account.
+- You can log in.
+- Enjoy.
+
 # `Font end part` 
 https://github.com/abdallahsekrafi/Tamkeen_font-end
 
