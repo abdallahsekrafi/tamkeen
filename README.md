@@ -24,7 +24,7 @@ https://tamkeen-one.vercel.app
 
 - Create a new account with a valid email address.
 - You will receive a verification email.
-- Click the link to activate your account.
+- Click the link to activate your account `this link expires in 1 hour` .
 - You can log in.
 - Enjoy.
 
