@@ -34,6 +34,10 @@ https://tamkeen-one.vercel.app
 - You can log in.
 - Enjoy.
 
+# Contact me for any collaboration:
+- LinkedIn: https://www.linkedin.com/in/abdallah-sekrafi-47232889/
+- Facebook: https://www.facebook.com/abdallah.sek/
+
 # `Font end part` 
 https://github.com/abdallahsekrafi/Tamkeen_font-end
 
@@ -62,10 +66,6 @@ JAVASCRIPT, REACT, MONGOBD, EXPRESS, NODEJS, REDUX, MUI (material UI), CSS, HTML
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 </div>
-
-# Contact me for any collaboration:
-- LinkedIn: https://www.linkedin.com/in/abdallah-sekrafi-47232889/
-- Facebook: https://www.facebook.com/abdallah.sek/
 
 # Screenshot:
 <img src="screenshot/full.png" width="800">
