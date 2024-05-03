@@ -22,7 +22,13 @@ Tamkeen app is the official assistant for people with disabilities around the wo
 # `live preview` 
 https://tamkeen-one.vercel.app
 
-- Create a new account with a valid email address.
+1) Use :
+- Email: guest@tamkeen.com
+- Password: tamkeen
+- Please write your name when creating a new post
+
+  OR
+2) Create a new account with a valid email address:
 - You will receive a verification email.
 - Click the link to activate your account `this link expires in 1 hour` .
 - You can log in.
