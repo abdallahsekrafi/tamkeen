@@ -39,11 +39,11 @@ https://tamkeen-one.vercel.app
 - Facebook: https://www.facebook.com/abdallah.sek/
 
 # `Font end part`
-`Contact me for the last version V-01-25`
+ #### `Contact me for the last version V-01.25`
 https://github.com/abdallahsekrafi/Tamkeen_font-end
 
 # `Back end part` 
-`Contact me for the last version V-01-25`
+ #### `Contact me for the last version V-01.25`
 https://github.com/abdallahsekrafi/Tamkeen_back-end
 
 # Technologies: 
