@@ -38,10 +38,12 @@ https://tamkeen-one.vercel.app
 - LinkedIn: https://www.linkedin.com/in/abdallah-sekrafi-47232889/
 - Facebook: https://www.facebook.com/abdallah.sek/
 
-# `Font end part` 
+# `Font end part`
+`Contact me for the last version V-01-25`
 https://github.com/abdallahsekrafi/Tamkeen_font-end
 
 # `Back end part` 
+`Contact me for the last version V-01-25`
 https://github.com/abdallahsekrafi/Tamkeen_back-end
 
 # Technologies: 
