@@ -47,7 +47,7 @@ https://github.com/abdallahsekrafi/Tamkeen_font-end
 https://github.com/abdallahsekrafi/Tamkeen_back-end
 
 # Technologies: 
-JAVASCRIPT, REACT, MONGOBD, EXPRESS, NODEJS, REDUX, MUI (material UI), CSS, HTML
+JAVASCRIPT, REACT, MONGOBD, EXPRESS, NODEJS, REDUX, MUI (material UI), CSS, HTML, OpenAI GPT API: gpt-4o-mini
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
@@ -67,6 +67,8 @@ JAVASCRIPT, REACT, MONGOBD, EXPRESS, NODEJS, REDUX, MUI (material UI), CSS, HTML
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+   <img width="12" />
+  <img src="https://cdn.brandfetch.io/idR3duQxYl/w/400/h/400/theme/dark/icon.jpeg?c=1bx1739801986996id64Mup7ac8mPKj_g1&t=1718351869876" height="40"  alt="OpenAI logo"  />
 </div>
 
 # Screenshot:
